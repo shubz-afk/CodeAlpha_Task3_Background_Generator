@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing:border-box;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{
+    background: linear-gradient(to right, rgb(43, 55, 236), rgb(50, 139, 241));
+    text-align: center;
+}
+
+.text{
+    color: whitesmoke;
+    padding: 30px;
+}
+
+h1{
+    padding:8%;
+}
+
+h2{
+    padding:4%;
+}
+
+h3{
+    padding:3%;
+}
